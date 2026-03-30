@@ -35,7 +35,7 @@ Infrastructure generalist with a passion for automation, self-hosted everything,
 
 ## 🚧 Current Projects
 
-### [mRemotify](https://github.com/yourusername/mremotify)
+### [mRemotify](https://github.com/deadRabbit92/mremotify)
 A self-hosted, browser-based remote connection manager — think mRemoteNG, but open-source and running in your browser.
 Built with React + TypeScript + Vite on the frontend, Node.js + Fastify on the backend, and a custom Rust daemon for RDP.
 
